@@ -1,4 +1,4 @@
-## Hi, I am [Gao Jiawei](https://gao-jiawei.com/). I work in Robotics and Reinforcement Learning.
+## Hi, I am [Gao Jiawei](https://gao-jiawei.com/). I work on Robotics and Reinforcement Learning.
 
 
 <!---
